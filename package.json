@@ -1,0 +1,20 @@
+{
+  "name": "pane",
+  "version": "1.0.0",
+  "description": "A minimalistic to-do list. Mobile first design. One for all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javalosr2004/Pane.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javalosr2004/Pane/issues"
+  },
+  "homepage": "https://github.com/javalosr2004/Pane#readme"
+}
