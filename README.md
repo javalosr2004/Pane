@@ -1,8 +1,10 @@
 # Pane
 
-A minimalistic to-do list. Mobile first design. One for all. 
+The easier way to automate your life. 
 
 ## Developer Goals
-- [ ] Implement checkbox system
-- [ ] Add OAuth
+- [ ] Implement Puppeteer to backend as API using express
+- [ ] Take user input (text / website urls)
+- [ ] Take user input (clicks / guide automation)
+- [ ] Implement frontend using React
 
